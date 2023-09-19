@@ -1,0 +1,15 @@
+{
+  "name": "my_newpage",
+  "version": "1.0.0",
+  "description": "Ejemplo de una lanbpage",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
